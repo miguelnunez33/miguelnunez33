@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 ## Garry's Mod
 -->
 
+# 🖥️ Past Work
+
+## Garry's Mod
+
+### W.I.P.
+
 # 🔭 I’m currently working on
+
 ## INÓPIA
-> A serious roleplay gamemode inspired by Half-Life 2. It is built upon the Helix framework created for Garry's Mod
+> A brazilian serious roleplay gamemode inspired by Half-Life. It is built upon the Helix framework created for Garry's Mod
 
 # 💬 Ask me about
 
@@ -28,4 +35,4 @@ Here are some ideas to get you started:
 # 📫 How to reach me:
 ###	Discord: sergiovargas33
 ### Email: sergio.vargas33@hotmail.com
-### Steam: https://steamcommunity.com/id/sergiovargas33
+### Steam: [sergiovargas33](https://steamcommunity.com/id/sergiovargas33)
