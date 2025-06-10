@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 # 💬 Ask me about
 
 ###	Commissions for Garry's Mod, particularly working with the Helix framework.
-###	Coding hints or testing.
+###	Coding lessons or debugging.
 
 # 📫 How to reach me:
 ###	Discord: sergiovargas33
