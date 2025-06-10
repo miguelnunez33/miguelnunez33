@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me:
 ###	Discord: sergiovargas33
+### Email: sergio.vargas33@hotmail.com
+### Steam: [sergiovargas33](https://steamcommunity.com/id/sergiovargas33/)
