@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # 🖥️ Past Work
 ## Garry's Mod
+-->
 
 # 🔭 I’m currently working on
-## INÓPIA: 2016
+## INÓPIA
 > A serious roleplay gamemode inspired by Half-Life 2. It is built upon the Helix framework created for Garry's Mod
 
 # 💬 Ask me about
