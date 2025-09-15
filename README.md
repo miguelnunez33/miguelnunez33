@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ###	Coding lessons or debugging.
 
 # 📫 How to reach me:
-###	Discord: sergiovargas33
-### Email: sergio.vargas33@hotmail.com
-### Steam: [sergiovargas33](https://steamcommunity.com/id/sergiovargas33)
+###	Discord: miguelnunez33
+### Email: miguel.nunez33@hotmail.com
+### Steam: [miguelnunez33](https://steamcommunity.com/id/sergiovargas33)
